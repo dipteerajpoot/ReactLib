@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.bgorange{
+  background-color: rgb(252, 221, 163) !important;
+}
+.button-size{
+  width:100px;
+}
+.heading{
+  font-size: 20px;
+  font-weight: bolder;
+  color: white;
+}
